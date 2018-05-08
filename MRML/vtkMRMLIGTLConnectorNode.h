@@ -18,7 +18,7 @@
 #include "vtkIGTLToMRMLBase.h"
 #include "vtkMRMLIGTLQueryNode.h"
 #include "vtkSlicerOpenIGTLinkIFModuleMRMLExport.h"
-#include "vtkIGTLTOMRMLConverterFactory.h"
+#include "vtkIGTLToMRMLConverterFactory.h"
 
 // OpenIGTLink includes
 #include <igtlServerSocket.h>
